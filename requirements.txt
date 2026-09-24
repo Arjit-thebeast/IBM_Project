@@ -1,0 +1,29 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# Resume / PDF Processing
+PyPDF2
+pdfplumber
+pdfminer.six
+pypdfium2
+
+# Natural Language Processing
+spacy
+
+# AI / IBM BOB
+ibm-watsonx-ai
+
+# Data Validation / Utilities
+pydantic
+requests
+python-dateutil
+
+# Application / API Support
+fastapi
+uvicorn
+python-multipart
+
+# Development
+typing-extensions
